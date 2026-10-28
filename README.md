@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-auth-plugin-unquoted">phpmyadmin-auth-plugin-unquoted</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-auth-plugin-unquoted"><strong>https://abraxaslabs.tech/research/phpmyadmin-auth-plugin-unquoted</strong></a>
+</p>
+
 
 # phpmyadmin-auth-plugin-unquoted
 
